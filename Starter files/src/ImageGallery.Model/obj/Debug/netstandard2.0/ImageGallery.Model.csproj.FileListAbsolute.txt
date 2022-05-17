@@ -1,0 +1,10 @@
+F:\git\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.deps.json
+F:\git\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.dll
+F:\git\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.pdb
+F:\git\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.csproj.AssemblyReference.cache
+F:\git\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\git\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.AssemblyInfoInputs.cache
+F:\git\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.AssemblyInfo.cs
+F:\git\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.csproj.CoreCompileInputs.cache
+F:\git\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.dll
+F:\git\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.pdb

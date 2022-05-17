@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Duke.IDP
+build_property.ProjectDir = F:\git\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\Duke.IDP\

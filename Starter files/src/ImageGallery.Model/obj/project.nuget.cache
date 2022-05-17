@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bOT+x6bz/634Lb75FwXsqB3AMZ1yCIpM7tAOxrqx+glUk0ky3dbSk03Wpqe/huWvhbY+ng4CxEobpo1MyLF7uA==",
+  "success": true,
+  "projectFilePath": "F:\\git\\SecuringAspNetCore3WithOAuth2AndOIDC\\Starter files\\src\\ImageGallery.Model\\ImageGallery.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tuukk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Tuukk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Tuukk\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

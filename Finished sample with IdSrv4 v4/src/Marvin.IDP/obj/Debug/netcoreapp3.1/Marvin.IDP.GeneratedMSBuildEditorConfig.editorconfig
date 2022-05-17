@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Marvin.IDP
+build_property.ProjectDir = F:\git\SecuringAspNetCore3WithOAuth2AndOIDC\Finished sample with IdSrv4 v4\src\Marvin.IDP\

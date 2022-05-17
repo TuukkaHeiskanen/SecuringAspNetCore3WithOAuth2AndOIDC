@@ -1,39 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\KevinDockx\\SecuringAspNetCore3WithOAuth2AndOIDC\\Finished sample with IdSrv4 v4\\src\\Marvin.IDP\\Marvin.IDP.csproj": {}
+    "F:\\git\\SecuringAspNetCore3WithOAuth2AndOIDC\\Finished sample with IdSrv4 v4\\src\\Marvin.IDP\\Marvin.IDP.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\KevinDockx\\SecuringAspNetCore3WithOAuth2AndOIDC\\Finished sample with IdSrv4 v4\\src\\Marvin.IDP\\Marvin.IDP.csproj": {
+    "F:\\git\\SecuringAspNetCore3WithOAuth2AndOIDC\\Finished sample with IdSrv4 v4\\src\\Marvin.IDP\\Marvin.IDP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\KevinDockx\\SecuringAspNetCore3WithOAuth2AndOIDC\\Finished sample with IdSrv4 v4\\src\\Marvin.IDP\\Marvin.IDP.csproj",
+        "projectUniqueName": "F:\\git\\SecuringAspNetCore3WithOAuth2AndOIDC\\Finished sample with IdSrv4 v4\\src\\Marvin.IDP\\Marvin.IDP.csproj",
         "projectName": "Marvin.IDP",
-        "projectPath": "C:\\GitHub\\KevinDockx\\SecuringAspNetCore3WithOAuth2AndOIDC\\Finished sample with IdSrv4 v4\\src\\Marvin.IDP\\Marvin.IDP.csproj",
-        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\KevinDockx\\SecuringAspNetCore3WithOAuth2AndOIDC\\Finished sample with IdSrv4 v4\\src\\Marvin.IDP\\obj\\",
+        "projectPath": "F:\\git\\SecuringAspNetCore3WithOAuth2AndOIDC\\Finished sample with IdSrv4 v4\\src\\Marvin.IDP\\Marvin.IDP.csproj",
+        "packagesPath": "C:\\Users\\Tuukk\\.nuget\\packages\\",
+        "outputPath": "F:\\git\\SecuringAspNetCore3WithOAuth2AndOIDC\\Finished sample with IdSrv4 v4\\src\\Marvin.IDP\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Tuukk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\LocalNuGetRepository": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {},
-          "https://sdworx.myget.org/F/public-feed/auth/995b6984-6a4c-467f-8d29-6a806526ef3e/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -45,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "IdentityServer4": {
               "target": "Package",
@@ -95,12 +89,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -109,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
